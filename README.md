@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @blmIT17
 - 👀 I’m interested in ICT, Music and Sports.
 - 🌱 I’m currently learning Zabbix, Bookstack, Ubuntu.
+- 🌱 I’d like to learn Python, PostgreSQL, AlmaLinux.
 - 💞️ I’m looking to collaborate on Zabbix.
 - 📫 How to reach me belminkrlicevic@gmail.com.
 - 😄 Pronouns: he/him
