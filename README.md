@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Zabbix, Bookstack, Ubuntu.
 - 🌱 I’d like to learn Python, PostgreSQL, AlmaLinux.
 - 💞️ I’m looking to collaborate on Zabbix.
-- 📫 How to reach me belminkrlicevic@gmail.com.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My hobby is producing music and I've been doing it for more 10 years.
