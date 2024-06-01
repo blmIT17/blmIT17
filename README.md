@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @blmIT17
+- 👀 I’m interested in ICT, Music and Sports.
+- 🌱 I’m currently learning Zabbix, Bookstack, Ubuntu.
+- 💞️ I’m looking to collaborate on Zabbix.
+- 📫 How to reach me belminkrlicevic@gmail.com.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My hobby is producing music and I've been doing it for more 10 years.
